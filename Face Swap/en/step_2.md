@@ -6,6 +6,8 @@ You can work on any image which has two people, facing the camera, preferably at
 
 Here is an image to get us started.
 
+![Complete project](images/Complete2.png)
+
 ![original image](images/starting image 2.png)
 
 --- task ---
